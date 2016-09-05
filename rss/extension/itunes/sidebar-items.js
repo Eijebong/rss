@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["NAMESPACE","The iTunes XML namespace."]],"struct":[["ITunesCategory","A category for an iTunes podcast."],["ITunesChannelExtension","An iTunes channel element extension."],["ITunesItemExtension","An iTunes item element extension."],["ITunesOwner","The contact information for the owner of an iTunes podcast."]]});
