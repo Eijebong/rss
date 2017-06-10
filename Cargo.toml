@@ -17,5 +17,5 @@ from_url = ["reqwest"]
 quick-xml = "0.7.3"
 chrono = "0.3"
 url = "1.4"
-mime = "0.2"
+mime = ">=0.2, <0.4"
 reqwest = { version = "0.6", optional = true }
